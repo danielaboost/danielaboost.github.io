@@ -2,10 +2,14 @@ a {
   color: red;
 }
 
-div {
-  border: 1px solid #000;
+#exec-bio {
+  background-color: lightgrey;
 }
 
-div a {
+.bio-box {
+  border: 1px solid black;
+}
+
+.bio-box a {
   color: green;
 }
